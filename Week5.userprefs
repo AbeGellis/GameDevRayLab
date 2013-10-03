@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ClickToMove.cs">
+    <Files>
+      <File FileName="Assets\Scripts\ClickToMove.cs" Line="34" Column="19" />
+      <File FileName="Assets\Scripts\NPCBot.cs" Line="26" Column="3" />
+      <File FileName="Assets\Scripts\Platformer.cs" Line="30" Column="3" />
+      <File FileName="Assets\Scripts\SceneControl.cs" Line="12" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
